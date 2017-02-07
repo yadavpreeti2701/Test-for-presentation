@@ -9,3 +9,5 @@ This is a test repository.
 
 :+1: :+1:
 ### This is a new branch ###
+
+Made a change for CLI
