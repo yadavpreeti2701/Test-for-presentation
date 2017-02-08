@@ -11,3 +11,4 @@ This is a test repository.
 ### This is a new branch ###
 
 Made a change for CLI
+Made new changes for CLI
